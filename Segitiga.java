@@ -1,5 +1,5 @@
 import java.util.*;
-public class LuasSegitiga {
+public class Segitiga {
   public static void main(String[] args) {
     double a, t, luas;
     Scanner scan = new Scanner(System.in);
